@@ -1,0 +1,16 @@
+BULMA NOTES
+
+This seems to work with react, but documentation on how to customize it is lacking.
+https://github.com/couds/react-bulma-components
+
+
+Nothing fucking works unless you wrap it in section tags.
+
+Regular Examples
+https://bulma.io/documentation
+
+None of their fucking examples work in real life, so use these.
+https://github.com/dansup/bulma-templates/tree/master/templates
+
+
+Use the "content" class of fucking none of the styles H1 etc will work.
